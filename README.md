@@ -4,6 +4,7 @@
 
 # 数据结构和算法
 
+* [sort_algorithm_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/sort_algorithm.png)
 
 -------------------
 

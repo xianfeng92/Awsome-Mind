@@ -18,12 +18,14 @@
 
 * [EventBus_mind](https://github.com/xianfeng92/Awsome-Android/blob/master/images/EventBus_mind.png)
 
-* MVPArms
-
 * Retrofit
 
 * RxJava
 
 * Dagger
+
+* MVPArms
+
+* AndroidAutoSize
 
 -------------------

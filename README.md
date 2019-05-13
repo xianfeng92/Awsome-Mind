@@ -16,9 +16,19 @@
 
 * [hashMap_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/hashMap_Mind.png)
 
+* LinkedHashMap
+
 * ConcurrentHashMap
 
 * [SparseArray](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/SparseArray_mind.png)
+
+* LinkedList
+
+* ArrayList
+
+* TreeSet
+
+* HashSet
 
 -------------------
 

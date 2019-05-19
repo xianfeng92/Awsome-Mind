@@ -50,6 +50,7 @@
 
 # Android
 
+* [Context_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Context_mind.png)
 
 
 -------------------

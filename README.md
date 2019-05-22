@@ -54,7 +54,7 @@
 
 * Android_IPC_mind
 
-* Service_Mind
+* [Service_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Service_Mind.png)
 
 * Event_Mind
 

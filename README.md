@@ -56,6 +56,8 @@
 
 * [Service_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Service_Mind.png)
 
+* [Choose_right_IPC](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Choose_right_IPC.png)
+
 * Event_Mind
 
 -------------------

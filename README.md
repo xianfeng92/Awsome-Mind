@@ -52,7 +52,7 @@
 
 * [Context_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Context_mind.png)
 
-* Android_IPC_mind
+* [Android_IPC_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Android_IPC_mind.png)
 
 * [Service_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Service_Mind.png)
 

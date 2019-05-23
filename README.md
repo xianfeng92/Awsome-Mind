@@ -14,6 +14,8 @@
 
 * data_Structure_mind
 
+* [Linear_table_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Linear_table_mind.png)
+
 * [hashMap_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/hashMap_Mind.png)
 
 * LinkedHashMap

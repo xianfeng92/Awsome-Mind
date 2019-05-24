@@ -62,7 +62,7 @@
 
 * [Android_Event_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Android_Event_Mind.png)
 
-* Android_Handler_mind
+* [Android_Messaging_Mechanism_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Android_Messaging_Mechanism_Mind.png)
 
 * Android_Thread_ThreadPool_mind
 

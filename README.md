@@ -26,6 +26,8 @@
 
 * LinkedList
 
+* [BinarySearchTree_Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/BinarySearchTree_Mind.png)
+
 * [ArrayList_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/ArrayList_mind.png)
 
 * TreeSet

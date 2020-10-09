@@ -6,22 +6,22 @@
 # [Android](https://github.com/xianfeng92/Awsome-Mind/blob/master/Android/README.md)
 
 ------------------
-# Java
+# [Java](https://github.com/xianfeng92/Awsome-Mind/blob/master/java/README.md)
 
 ------------------------
-# VM
+# [Virture Machine](https://github.com/xianfeng92/Awsome-Mind/blob/master/VM/README.md)
 
 ------------------------
-# CS
+# [CS](https://github.com/xianfeng92/Awsome-Mind/blob/master/CS/README.md)
 
 --------------------------
-# DSA
+# [DSA](https://github.com/xianfeng92/Awsome-Mind/blob/master/DSA/README.md)
 
 ------------------------
-# Architecture
+# [Architecture](https://github.com/xianfeng92/Awsome-Mind/blob/master/Architecture/README.md)
 
 -------------------
-# Linux
+# [Linux](https://github.com/xianfeng92/Awsome-Mind/blob/master/Linux/README.md)
 
 -------------------
 

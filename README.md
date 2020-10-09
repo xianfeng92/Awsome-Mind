@@ -4,7 +4,7 @@
 
 ------------------
 
-# 计算机基础
+# CS
 
 ## How Program Works
 
@@ -13,7 +13,7 @@
 
 --------------------------
 
-# 数据结构和算法
+# DSA
 
 * [sort_algorithm_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/sort_algorithm.png)
 
@@ -76,13 +76,20 @@
 * Android_Thread_ThreadPool_mind
 
 ------------------------
+# VM
+
+------------------------
+# Architecture
+
+------------------------
 
 # Java
 
 -------------------
-# Flutter
-
-* [Flutter_Base_mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/images/Flutter_Base_mind.png)
-
+# Linux
 
 -------------------
+
+
+
+

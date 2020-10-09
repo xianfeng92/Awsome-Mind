@@ -1,7 +1,4 @@
-# Awsome-Mind
-
-
-<code><img align="center" width="20%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minds.svg"></code>
+# Awsome-Mind  <code><img align="center" width="20%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minds.svg"></code>
 
 ------------------
 # [Android Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/Android/README.md)

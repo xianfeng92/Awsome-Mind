@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 ------------------
 # [Android Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/Android/README.md)
 

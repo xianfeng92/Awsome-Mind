@@ -1,7 +1,6 @@
-# Awsome-Mind  <code><img width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minds.svg"></code>
+# Awsome-Mind <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="50" height="50"/>
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="40" height="40"/> 
 
 ------------------
 # [Android Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/Android/README.md)

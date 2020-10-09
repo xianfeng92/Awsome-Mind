@@ -1,5 +1,8 @@
 # Awsome-Mind <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="50" height="50"/>
 
+
+![Mamba Forever](https://github.com/xianfeng92/Awsome-Mind/blob/master/Mamba/kobe.jpeg)
+
 ------------------
 ## [Android Mind](https://github.com/xianfeng92/Awsome-Mind/blob/master/Android/README.md)
 
